@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SearchUsers</string>
+    <string name="keyword">KeyWord</string>
+    <string name="search">Search</string>
+</resources>
